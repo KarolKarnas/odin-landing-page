@@ -50,6 +50,7 @@ color: antiquewhite;
 .section-one-container {
 	display: flex;
 	gap: 16px;
+	width: 60%;
 } 
 
 .image-section-1 {
